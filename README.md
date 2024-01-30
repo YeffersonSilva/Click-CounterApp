@@ -23,7 +23,7 @@ This is a simple Android application that displays a counter on the main screen 
 
 ## Usage
 
-1. Clone this repository: `git clone https://github.com/your-username/click-counter-app.git`
+1. Clone this repository: `[git clone https://github.com/your-username/click-counter-app.git](https://github.com/YeffersonSilva/Click-CounterApp.git)`
 2. Open the project in Android Studio.
 3. Run the application on an Android emulator or device.
 4. Click on the TextView to increment the counter.
